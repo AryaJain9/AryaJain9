@@ -1,27 +1,39 @@
-# 💫 About Me:
+# 💫 About Me
+
 ## 👋 Hey, I'm Arya  
 
 🎓 TYBSc IT Graduate  
-💻 Aspiring Developer  
+💻 Aspiring Developer & Designer  
 
 I like building things from ideas. I usually spend time thinking through concepts first and then turning them into projects.  
 
-I work with HTML, CSS, JavaScript, and Python, and I often use AI tools to help me build faster and explore different approaches. I’m also interested in IoT and enjoy learning how software connects with real-world devices.  
+I work with HTML, CSS, JavaScript, and Python, and I often use AI tools to build faster and explore different approaches. I’m also interested in IoT and enjoy learning how software connects with real-world devices.  
 
-### 🚀 What I Work On
-- Websites  
+I also design and develop websites using **Wix Studio**, creating modern, responsive, and visually polished web experiences.  
+
+---
+
+## 🚀 What I Work On
+- Websites (Custom + Wix Studio)  
 - Small games  
 - Mobile app ideas  
 
-### 🌱 Currently
-- Learning by building projects  
+---
+
+## 🌱 Currently
+- Learning design along with development  
+- Building real-world projects  
 - Exploring new technologies  
 - Looking for freelance opportunities and real-world work  
 
-### 💡 About Me
+---
+
+## 💡 About Me
 Curious, creative, and enthusiastic. I enjoy experimenting and figuring things out on my own.  
 
-### 🎮 Outside of Coding
+---
+
+## 🎮 Outside of Coding
 Gaming and video editing (familiar with Final Cut Pro)
 
 
