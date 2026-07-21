@@ -69,4 +69,6 @@ Gaming and video editing (familiar with Final Cut Pro)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AryaJain9&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+[![](https://komarev.com/ghpvc/?username=AryaJain9&icon=0&color=0)](https://visitcount.itsvg.in)
