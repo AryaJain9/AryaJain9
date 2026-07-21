@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Arya
 
-🎓 TYBSc IT Graduate
+🎓 TYBSc IT Graduate<br/>
 💻 Aspiring Developer & Designer
 
 I like building things from ideas. I usually spend time thinking through concepts first and then turning them into projects.
@@ -36,6 +36,15 @@ Curious, creative, and enthusiastic. I enjoy experimenting and figuring things o
 
 ---
 
+## 📌 Projects
+
+**[Study Planner](https://github.com/AryaJain9/Study-Planner)** — Task manager for students with deadlines, priorities, filtering, and live progress tracking. Vanilla JS, no framework, no build step.
+🔗 **[Try it live](https://aryajain9.github.io/Study-Planner/)**
+
+**[File Transfer](https://github.com/AryaJain9/File-Transfer)** — Self-hosted LAN file sharing between your own devices. Node/Express backend, dependency-free HTML frontend, no cloud involved.
+
+---
+
 ## 🎮 Outside of Coding
 
 Gaming and video editing (familiar with Final Cut Pro)
@@ -66,8 +75,6 @@ Gaming and video editing (familiar with Final Cut Pro)
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=AryaJain9&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
 
 ---
 
